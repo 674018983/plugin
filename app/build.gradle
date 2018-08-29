@@ -1,5 +1,5 @@
 apply plugin: 'com.android.application'
-//apply plugin: 'pack.cmsettings'
+apply plugin: 'pack.cmsettings'
 android {
     compileSdkVersion 28
     defaultConfig {

@@ -3,8 +3,8 @@ apply plugin: 'com.jfrog.bintray'
 // This is the library version used when deploying the artifact
 
 // 定义相关网站
-def siteUrl = 'https://www.baidu.com'  // 项目的主页
-def gitUrl = 'www.baidu.com'   // Git仓库的url
+def siteUrl = 'https://github.com/674018983/plugin'  // 项目的主页
+def gitUrl = 'https://github.com/674018983/plugin.git'   // Git仓库的url
 
 // ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓定义 pom 并打包 aar↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 install {

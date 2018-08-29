@@ -15,7 +15,7 @@ repositories {
 
 //group和version在后面使用自定义插件的时候会用到
 group='com.suncat'
-version='2.0.0'
+version='2.0.1'
 
 uploadArchives {
     repositories {
